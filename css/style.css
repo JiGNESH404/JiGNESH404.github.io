@@ -556,6 +556,11 @@ h2.heading span,h3.heading span {
     background: #ff4f81;
     height: 8px;
 }
+skills p.clr-ninghty-b {
+    width: 90%;
+    background: #4F0A08;
+    height: 8px;
+}
 .skills p.clr-seventy {
     width: 70%;
     background: #4F0A08;

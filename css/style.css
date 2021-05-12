@@ -163,11 +163,11 @@ nav ul li ul li:hover { background: #f8f9fa; }
 
 /* Background color change on Hover */
 nav a:hover { 
-    color: #fff;
+    color: #cc2105;
     background: transparent;
 }
 .menu li.active  a{ 
-    color: #4F0A08;
+    color: #cc2105;
     background: transparent;
 }
 
